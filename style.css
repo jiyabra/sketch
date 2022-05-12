@@ -1,0 +1,36 @@
+.heading
+{
+  width: 100%;
+  font-size: 20px;
+  margin: 0px;
+  box-shadow:5px 5px 5px grey;
+}
+
+.result_para_tag
+{
+  box-shadow:5px 5px 5px grey;
+  font-size: 15px;
+}
+.result_para_tag span
+{
+  white-space: pre-line;
+}
+.copy_right_footer{
+  position: fixed;
+  color: rgb(164, 16, 16);
+  font-size: large;
+  bottom: 0;
+  width: 100%;
+  background-color: rgb(52, 211, 71);
+  line-height: 3;
+  text-align: center;
+}
+
+
+
+canvas{
+  border: 5px solid rgb(253, 45, 45);
+  border-radius: 20px;
+  box-shadow: 5px 5px 5px rgb(249, 11, 11);
+  margin-top: 100px;
+}
